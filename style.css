@@ -503,7 +503,12 @@ body {
     background: #FBFEFF;
 }
 
-
+.carousel-control-prev-icon{
+   background-color: #3E82FC;
+}
+.carousel-control-next-icon{
+   background-color: #3E82FC;
+}
 .review-heading {
     display: flex;
     flex-direction: column;
